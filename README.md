@@ -1,2 +1,2 @@
 # Nerd-with-a-personality
-Physics Projects
+Projects done during undergrad at Imperial
