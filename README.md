@@ -1,2 +1,2 @@
 # Nerd-with-a-personality
-Projects done during undergrad at Imperial
+Yo this is Ching Lee and this is my work during my undergrad at Imperial
